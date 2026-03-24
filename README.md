@@ -1,7 +1,7 @@
 # Financial Survival Toolkit
 A practical toolkit to help women-owned micro businesses in South Africa manage finances, track expenses, forecast revenue, plan growth, and access resources to build sustainable, thriving businesses.
-Project Overview
 
+# Project Overview
 A structured financial planning and risk assessment toolkit designed to help women-owned micro businesses in South Africa evaluate pricing, profitability, cash flow stability, and break-even sustainability.
 
 # Objective
