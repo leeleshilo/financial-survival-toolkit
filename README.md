@@ -34,7 +34,7 @@ To provide a practical financial decision-support tool that improves visibility 
 
 # Sample Dashboard
 
-<img width="668" height="674" alt="Dashboard preview" src="https://github.com/user-attachments/assets/8db32bd1-4e02-4e7a-ba68-863c42265e71" />
+<img width="668" height="674" alt="Dashboard preview" src="https://github.com/leeleshilo/financial-survival-toolkit/blob/main/Financial%20peformance%20and%20risk%20overview%20dashboard.png" />
 
 
 # Business Impact
